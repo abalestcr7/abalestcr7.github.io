@@ -1,38 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[test]]></title>
-    <url>%2F2017%2F10%2F12%2Ftest%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[first]]></title>
-    <url>%2F2017%2F10%2F12%2Ffirst%2F</url>
-    <content type="text"><![CDATA[这是人类的一小步。]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[qqq]]></title>
-    <url>%2F2017%2F10%2F12%2Funtitled%2F</url>
-    <content type="text"><![CDATA[qqq]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[my first blog]]></title>
-    <url>%2F2017%2F10%2F12%2Fmy-first-blog%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[post]]></title>
-    <url>%2F2017%2F10%2F12%2Fpost%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[postName]]></title>
-    <url>%2F2017%2F10%2F12%2FpostName%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2017%2F10%2F12%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[网站设置基本完成]]></title>
+    <url>%2F2017%2F12%2F01%2Findividual%2F</url>
+    <content type="text"><![CDATA[10月初捣鼓了一两天，有事耽搁就扔在那了，这两天好好看了看hexo和主题的官方文档，稍微顺利一些（网上博客的一些总结很好，但是很多过了时效。）。先配置Hexo的环境，然后同时po到github和codingme，分国内外dns，加载速度要好一些，算是个一劳永逸的活吧。再就是配置next主题的各项配置了，官方文档需要更新了。。。分享页面那里折腾了很久，因为以前的分享方法基本不管用了，最后用的sharesdk。博客的网页是搭好了，真正关键的是内容，希望自己平时能更一些对自己有益对大家有益的东西吧。]]></content>
+      <categories>
+        <category>diary</category>
+      </categories>
+      <tags>
+        <tag>Dude-fussing</tag>
+      </tags>
   </entry>
 </search>
