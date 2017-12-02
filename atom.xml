@@ -23,13 +23,13 @@
     <published>2017-12-01T09:29:37.000Z</published>
     <updated>2017-12-01T09:41:34.407Z</updated>
     
-    <content type="html"><![CDATA[<p>10月初捣鼓了一两天，有事耽搁就扔在那了，这两天好好看了看hexo和主题的官方文档，稍微顺利一些（网上博客的一些总结很好，但是很多过了时效。）。先配置Hexo的环境，然后同时po到github和codingme，分国内外dns，加载速度要好一些，算是个一劳永逸的活吧。<br>再就是配置next主题的各项配置了，官方文档需要更新了。。。分享页面那里折腾了很久，因为以前的分享方法基本不管用了，最后用的sharesdk。<br>博客的网页是搭好了，真正关键的是内容，希望自己平时能更一些对自己有益对大家有益的东西吧。</p>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>10月初捣鼓了一两天，有事耽搁就扔在那了，这两天好好看了看hexo和主题的官方文档，稍微顺利一些（网上博客的一些总结很好，但是很多过了时效。）。先配置Hexo的环境，然后同时po到github和codingme，分国内外dns，加载速度要好一些，算是个一劳永逸的活吧。<br>再就是配置next主题的各项配置了，官方文档需要更新了。。。分享页面那里折腾了很久，因为以前的分享方法基本不管用了，最后用的sharesdk。<br>博客的网页是搭好了，真正关键的是内容，希望自己平时能更一些对自己有益对大家有益的东西吧。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;10月初捣鼓了一两天，有事耽搁就扔在那了，这两天好好看了看hexo和主题的官方文档，稍微顺利一些（网上博客的一些总结很好，但是很多过了时效。）。先配置Hexo的环境，然后同时po到github和codingme，分国内外dns，加载速度要好一些，算是个一劳永逸的活吧。&lt;br
+        &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;10月初捣鼓了一两天，有事耽搁就扔在那了，这两天好好看了看hexo和主题的官方文档，稍微顺利一些（网上博客的一些总结很好，但是很多过了时效。）。先配置Hexo的环境，然后同时
       
     
     </summary>
