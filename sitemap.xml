@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://pudongtech.top/about/index.html</loc>
+    
+    <lastmod>2017-12-07T17:22:18.410Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://pudongtech.top/categories/index.html</loc>
+    
+    <lastmod>2017-12-07T08:06:47.133Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://pudongtech.top/board/index.html</loc>
     
     <lastmod>2017-12-06T13:47:14.987Z</lastmod>
@@ -16,23 +30,9 @@
   </url>
   
   <url>
-    <loc>http://pudongtech.top/about/index.html</loc>
-    
-    <lastmod>2017-12-05T09:30:04.352Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://pudongtech.top/2017/12/04/hw/</loc>
     
     <lastmod>2017-12-03T16:58:35.630Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://pudongtech.top/categories/index.html</loc>
-    
-    <lastmod>2017-12-01T09:49:55.753Z</lastmod>
     
   </url>
   
