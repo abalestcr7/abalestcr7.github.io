@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pudongtech.top/"/>
-  <updated>2018-03-19T09:11:58.762Z</updated>
+  <updated>2018-03-19T09:13:23.287Z</updated>
   <id>http://pudongtech.top/</id>
   
   <author>
@@ -21,16 +21,16 @@
     <link href="http://pudongtech.top/2018/03/19/scholar/"/>
     <id>http://pudongtech.top/2018/03/19/scholar/</id>
     <published>2018-03-19T07:31:12.000Z</published>
-    <updated>2018-03-19T09:11:58.762Z</updated>
+    <updated>2018-03-19T09:13:23.287Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><a id="more"></a><p><img src="http://people.sc.fsu.edu/~jburkardt/m_src/m_src.html" alt="MATLAB source code"><br><img src="http://people.sc.fsu.edu/~jburkardt/py_src/py_src.html" alt="Python source code"><br><img src="https://sci-hub.org.cn" alt="Google scholar mirror"><br><img src="http://ac.scmor.com" alt="Google mirror"><br><img src="https://discuss.sci-hub.org.cn" alt="scihub 中文社区"><br><img src="http://sci-hub.tw/" alt="scihub (不定时更新)"><br><img src="https://www.scopus.com/search/form.uri?display=basic" alt="scopus database"><br><img src="http://gen.lib.rus.ec" alt="Library Genesis"><br><img src="http://en.booksee.org" alt="bookesee (Library)"><br><img src="http://booksc.org/s/?q=&amp;t=0" alt="booksc (Library)"><br><img src="http://www.ti.com/ww/tw/analog/webench/webench-filters.shtml" alt="Filter Design"></p>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><a id="more"></a><p><a href="http://people.sc.fsu.edu/~jburkardt/m_src/m_src.html" target="_blank" rel="noopener">MATLAB source code</a><br><a href="http://people.sc.fsu.edu/~jburkardt/py_src/py_src.html" target="_blank" rel="noopener">Python source code</a><br><a href="https://sci-hub.org.cn" target="_blank" rel="noopener">Google scholar mirror</a><br><a href="http://ac.scmor.com" target="_blank" rel="noopener">Google mirror</a><br><a href="https://discuss.sci-hub.org.cn" target="_blank" rel="noopener">scihub 中文社区</a><br><a href="http://sci-hub.tw/" target="_blank" rel="noopener">scihub (不定时更新)</a><br><a href="https://www.scopus.com/search/form.uri?display=basic" target="_blank" rel="noopener">scopus database</a><br><a href="http://gen.lib.rus.ec" target="_blank" rel="noopener">Library Genesis</a><br><a href="http://en.booksee.org" target="_blank" rel="noopener">bookesee (Library)</a><br><a href="http://booksc.org/s/?q=&amp;t=0" target="_blank" rel="noopener">booksc (Library)</a><br><a href="http://www.ti.com/ww/tw/analog/webench/webench-filters.shtml" target="_blank" rel="noopener">Filter Design</a></p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;p&gt;&lt;img src=&quot;http://people.sc.fsu.edu/~jburkardt/m_src/m_src.html&quot; alt=&quot;
+&lt;p&gt;&lt;a href=&quot;http://people.sc.fsu.edu/~jburkardt/m_src/m_src.html&quot; target
       
     
     </summary>
